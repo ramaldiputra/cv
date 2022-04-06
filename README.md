@@ -1,3 +1,3 @@
 # cv
 
-My CV Website
+My CV Website(Exercise Purpose)
